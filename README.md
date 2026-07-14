@@ -3,6 +3,7 @@
 <img width="1825" height="2177" alt="drone top view" src="https://github.com/user-attachments/assets/947c1555-c1d0-4c6a-9647-5d513982debe" />
 
 Project Overview
+
 Welcome to the project repository for my custom Pixhawk 2.4.8 quadcopter, engineered specifically to compete in the Shaastra Aerial Robotics Challenge. This repository serves as complete documentation of the drone's development, featuring a comprehensive collection of project build pictures and flight videos, custom fabrications, and final performance.
 
 To meet the rigorous demands of the competition, the drone was built from the ground up. The core of the build is a unique, lightweight frame constructed from carbon fiber rods integrated with repurposed F330 PCB plates, which is further protected by custom-designed propeller guards.
